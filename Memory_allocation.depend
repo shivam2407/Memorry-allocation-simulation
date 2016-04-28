@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1445230748 source:c:\users\shiivam\desktop\memory_allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1445230674 source:c:\users\shiivam\desktop\memory_allocation\best_fit.c
+
+1445230619 source:c:\users\shiivam\desktop\memory_allocation\first_fit.c
+
+1445230658 source:c:\users\shiivam\desktop\memory_allocation\next_fit.c
+
+1445230641 source:c:\users\shiivam\desktop\memory_allocation\worst_fit.c
+
+1445230382 source:c:\users\shiivam\desktop\memory_allocation\display.c
+
+1445231060 source:c:\users\shiivam\desktop\memory_allocation\check.c
+
